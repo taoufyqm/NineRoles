@@ -25,7 +25,7 @@ const LoginScreen: React.FC<LoginScreenProps> = ({ onLogin, onNavigateToRegister
           <div className="flex justify-center mb-4">
             <LogoIcon className="w-16 h-16 text-sky-400" />
           </div>
-          <h1 className="text-3xl font-bold">The Eighth Roles</h1>
+          <h1 className="text-3xl font-bold">The Nine Roles</h1>
           <p className="mt-2 text-gray-400">Welcome back, log in to get started.</p>
         </div>
         <form className="space-y-6" onSubmit={handleSubmit}>

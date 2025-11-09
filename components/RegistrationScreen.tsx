@@ -37,7 +37,7 @@ const RegistrationScreen: React.FC<RegistrationScreenProps> = ({ onRegister, onN
             <LogoIcon className="w-16 h-16 text-sky-400" />
           </div>
           <h1 className="text-3xl font-bold">Create a New Account</h1>
-          <p className="mt-2 text-gray-400">Join The Eighth Roles and start your creative journey.</p>
+          <p className="mt-2 text-gray-400">Join The Nine Roles and start your creative journey.</p>
         </div>
         <form className="space-y-6" onSubmit={handleSubmit}>
           <div>

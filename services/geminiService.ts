@@ -21,7 +21,7 @@ export const getSmartSuggestion = async (
   const model = 'gemini-2.5-flash';
   
   const prompt = `
-    You are an expert productivity coach for a video content creator using an app called "The Eighth Roles". Your response must be in English.
+    You are an expert productivity coach for a video content creator using an app called "The Nine Roles". Your response must be in English.
     
     Current user context:
     - Role: ${role.name} (${role.description})
